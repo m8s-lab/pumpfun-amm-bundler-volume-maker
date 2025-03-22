@@ -1,4 +1,4 @@
-## Pumpfun AMM Volume Bot + Maker Bot
+## Pumpfun AMM Bundler + Volume Bot + Maker Bot
 
 
 > Telegram: https://t.me/microgift88
